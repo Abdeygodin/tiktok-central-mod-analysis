@@ -1,0 +1,24 @@
+# Domains and URLs contacted by the mod layers (extracted from code)
+liteapks.com                                   # LiteAPKs repack updater (float-encoded in īi.ïi.pk)
+a.tiktokmod.pro                                # banner33.conf / banner34.conf / max2.conf / banner_gold.png
+rezvorck.github.io                             # /pub.conf (news banner)
+tiktok-apk.com                                 # /TikTok/update.json, /update (AES-encrypted in libGoldDcc.so)
+agmods.app                                     # /update, /uptademessage.txt (Gold framework)
+messengergold.app                              # /update, /uptademessage.txt (Gold framework)
+instagold.download                             # /themes/... (theme catalogue)
+gbgroupapps.com                                # /GB/GBWAUpdate.txt
+
+# Full URLs
+https://a.tiktokmod.pro/banner34.conf
+https://a.tiktokmod.pro/banner33.conf
+https://a.tiktokmod.pro/max2.conf
+https://a.tiktokmod.pro/banner_gold.png
+https://rezvorck.github.io/pub.conf
+https://tiktok-apk.com/TikTok/update.json
+https://tiktok-apk.com/update
+https://agmods.app/update
+https://agmods.app/uptademessage.txt
+https://messengergold.app/update
+https://messengergold.app/uptademessage.txt
+https://instagold.download/themes/mthemeN.xml
+https://www.gbgroupapps.com/GB/GBWAUpdate.txt

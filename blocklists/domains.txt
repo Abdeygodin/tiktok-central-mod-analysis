@@ -1,0 +1,11 @@
+# Mod servers: update prompts, banners, news. Blocking them makes the mod behave as if offline.
+# instagold.download (themes) is not included - add it if you do not use themes.
+liteapks.com
+a.tiktokmod.pro
+tiktokmod.pro
+rezvorck.github.io
+tiktok-apk.com
+agmods.app
+messengergold.app
+gbgroupapps.com
+www.gbgroupapps.com

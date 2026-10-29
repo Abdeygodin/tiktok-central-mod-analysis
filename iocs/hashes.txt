@@ -1,0 +1,11 @@
+# SHA-256 of analysed files
+c0dcffdafcc2c1b0c470d36e2f06fba5f29599ec8c9e5a672f5a33362a31d07e  TikTok_Central_v48.0.5_(MOD).apk           com.zhiliaoapp.musically 48.0.5 (2024800050)
+ae41384094982762dbaa6b9b22beb1e9aa3d5fd728023430d2fdb9abc3f316b7  TikTok_Central_v43.6.5_(MOD_NEW).apk       com.zhiliaoapp.musically 43.6.5 (2024306050)
+bb93b32bcaf4b488e1396e8d274124f9fc6114e99c498afddd0b7559b4ebacf5  base.apk (installed)                       com.zhiliaoapp.musically 47.1.7 (2024701070)
+075a8d9e82f295461d109dab2bd8c553b451ea340b18bf6928cba5761e18cec2  base.apk (installed)                       com.rezvorck.tiktokplugin 2.8 (86)
+
+# Signing certificate shared by all of the above (subject/issuer: C=IN)
+3b61c2a82aff9f7652ffe0b04be3c8f248b5e1aa7063f1a3846f0cf5c778628a  certificate SHA-256
+
+# sharedUserId used by the mod and the plugin
+TikTok.Mod.Jaggu

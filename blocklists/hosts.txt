@@ -1,0 +1,10 @@
+# hosts format
+0.0.0.0 liteapks.com
+0.0.0.0 a.tiktokmod.pro
+0.0.0.0 tiktokmod.pro
+0.0.0.0 rezvorck.github.io
+0.0.0.0 tiktok-apk.com
+0.0.0.0 agmods.app
+0.0.0.0 messengergold.app
+0.0.0.0 gbgroupapps.com
+0.0.0.0 www.gbgroupapps.com
