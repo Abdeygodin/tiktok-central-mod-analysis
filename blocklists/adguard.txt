@@ -1,6 +1,7 @@
 ! Title: TikTok Central MOD servers
 ! AdGuard / uBlock Origin / AdGuard Home syntax
 ||liteapks.com^
+||9mod.com^
 ||tiktokmod.pro^
 ||rezvorck.github.io^
 ||tiktok-apk.com^
