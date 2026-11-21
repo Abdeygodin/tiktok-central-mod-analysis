@@ -1,6 +1,7 @@
 # Domains and URLs contacted by the mod layers (extracted from code)
 liteapks.com                                   # LiteAPKs repack updater (float-encoded in īi.ïi.pk)
-9mod.com                                       # LiteAPKs updater: update config fetched from here (observed on device, Nov 2026)
+9mod.com                                       # LiteAPKs updater pool (Cloudflare)
+update.9mod.com                                # LiteAPKs updater: version/config fetched on every launch; host is assembled in libieuwh.so, absent from APK strings
 afmod.com                                      # float-encoded backup URL in īi.ïi.pk (domain does not resolve)
 a.tiktokmod.pro                                # banner33.conf / banner34.conf / max2.conf / banner_gold.png
 rezvorck.github.io                             # /pub.conf (news banner)

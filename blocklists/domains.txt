@@ -1,7 +1,9 @@
 # Mod servers: update prompts, banners, news. Blocking them makes the mod behave as if offline.
+# DNS blocking is a workaround; the reliable fix for the LiteAPKs banner is the native run() patch (see README).
 # instagold.download (themes) is not included - add it if you do not use themes.
 liteapks.com
 9mod.com
+update.9mod.com
 a.tiktokmod.pro
 tiktokmod.pro
 rezvorck.github.io
